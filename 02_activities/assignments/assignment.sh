@@ -46,5 +46,5 @@ mkdir server_logs user_logs event_logs
 
 
 ###########################################
-
+bash assignment.sh
 echo "Project setup is complete!"
